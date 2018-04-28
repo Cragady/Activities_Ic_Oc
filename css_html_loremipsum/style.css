@@ -1,0 +1,12 @@
+p{
+    font-size: 35px;
+    font-family: 'gugi', cursive;
+    font-weight: bold;
+    line-height: 1.5;
+    letter-spacing: 10px;
+    color: pink;
+}
+
+body{
+    background: lightcoral;
+}

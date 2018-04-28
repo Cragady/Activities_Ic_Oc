@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    background: #ffffff;
+    margin: 0 0 38px;
+    z-index: 99;
+    color: #ffffff;
+    overflow: auto;
+    border-bottom: 2px solid #cccccc;
+    width: 100%;
+}
+
+#logo{
+    width: 250px;
+    height: 90px;
+    background: #4aaaa5;
+    float: left;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 90px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.header nav{
+    color: #999999;
+    text-decoration: none;
+    margin-right: 5px;
+    border-left: 1px solid #efefef;
+    padding-left: 15px;
+    line-height: 18px;
+}
+
+.container{
+    clear: both;
+    margin-top: 20px;
+}

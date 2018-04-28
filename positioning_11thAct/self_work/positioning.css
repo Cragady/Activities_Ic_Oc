@@ -1,0 +1,31 @@
+/* colors used are #eee and #999*/
+body{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.box{
+    text-align: center;
+    padding: 20px;
+}
+
+.fixed{
+    background-color: #eee;
+    padding: 80px;
+    position: fixed;
+    top: -50px;
+    left: -65px;
+}
+    
+.relative{
+    background-color: #eee;
+    height: 100px;
+    position: relative;
+}
+
+.absolute{
+    background-color: #999;
+    position: absolute;
+    right: -20px;
+    bottom: 0;
+}
